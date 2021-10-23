@@ -4,13 +4,16 @@
     <!ENTITY credit_2_url "https://unsplash.com/s/photos/large-format?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" >
     <!ENTITY credit_natali_url "https://unsplash.com/@nattie_nn" >
     <!ENTITY credit_natali_unsplash_url "https://unsplash.com/photos/zlVfk0Zkv90" >
+    <!ENTITY corey_url "https://github.com/bumptech/glide/raw/master/static/glide_logo.png" >
+    <!ENTITY corey_logo "https://raw.githubusercontent.com/bumptech/glide/master/static/glide_logo.png" >
 ]>
 <resources>
     <string name="app_name">GlideLargeBitmap</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
+    <string name="first_fragment_label">Glider with large jpg</string>
+    <string name="second_fragment_label">Glide with large png</string>
+    <string name="third_fragment_label">Glide with URL</string>
     <string name="toggle">Toggle</string>
     <string name="previous">Previous</string>
 
@@ -20,5 +23,9 @@
 
     <string name="natali_navytka"><a href="&credit_natali_url;">Natali Navytka</a></string>
     <string name="natali_unsplash"> on <a href="&credit_natali_unsplash_url;">Unsplash</a></string>
+
+    <string name="corey_hall"><a href="&corey_url;">Corey Hall</a></string>
+    <string name="corey_logo"> on <a href="&corey_logo;">Github</a></string>
+    <string name="corey_url">&corey_logo;</string>
 
 </resources>
