@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [
+    <!ENTITY credit_1_url "https://unsplash.com/@sxy_selia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" >
+    <!ENTITY credit_2_url "https://unsplash.com/s/photos/large-format?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" >
+    <!ENTITY credit_natali_url "https://unsplash.com/@nattie_nn" >
+    <!ENTITY credit_natali_unsplash_url "https://unsplash.com/photos/zlVfk0Zkv90" >
+]>
+<resources>
+    <string name="app_name">GlideLargeBitmap</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="toggle">Toggle</string>
+    <string name="previous">Previous</string>
+
+    <string name="photo_by">Photo by </string>
+    <string name="sangga_rima_roman_selia"><a href="&credit_1_url;">Sangga Rima Roman Selia</a></string>
+    <string name="sangga_unsplash"> on <a href="&credit_2_url;">Unsplash</a></string>
+
+    <string name="natali_navytka"><a href="&credit_natali_url;">Natali Navytka</a></string>
+    <string name="natali_unsplash"> on <a href="&credit_natali_unsplash_url;">Unsplash</a></string>
+
+</resources>
